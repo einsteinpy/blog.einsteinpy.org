@@ -45,5 +45,5 @@ For installing the development version, you can do two things:
     $ pip install --editable /path/to/einsteinpy[dev]
 ```
 
-Please open an issue here: https://github.com/einsteinpy/einsteinpy/issues
+Please open an issue here: [https://github.com/einsteinpy/einsteinpy/issues](https://github.com/einsteinpy/einsteinpy/issues)
 if you feel any difficulty in installation!
