@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Installaton Guide
+title: Installation Guide
 subtitle: It's as easy as running one command!
 ---
 
