@@ -4,13 +4,17 @@ title: About Us
 subtitle: Here are some pretty cool facts about us!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Who are we?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This initiative is driven by the curiosity of four young minds.
 
-What else do you need?
+- Shreyas Bapat
+- Bhavya Bhatt
+- Ritwik Saha
+- Priyanshu Khandelwal
 
-### my history
+All of them are undergraduates from IIT Mandi with a motive of making GR easy to understand and visualise.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Reach out to us!
+
+You can mail us on [einsteinpy-dev@groups.io](mailto:einsteinpy-dev@groups.io) or [chat with us on Riot](https://riot.im/experimental/#/room/#einsteinpy:matrix.org) or [on Gitter](https://gitter.im/EinsteinPy-Project/EinsteinPy).
