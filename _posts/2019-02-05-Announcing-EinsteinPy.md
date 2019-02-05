@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Announcing EinsteinPy!
-subtitle: The first python library for implementing Einstein's Ideas
+subtitle: A python library for implementing Einstein's Ideas
 gh-repo: einsteinpy/einsteinpy
-gh-badge: [star, fork, follow]
+gh-badge: [star, fork]
 tags: [release]
 comments: true
 ---
