@@ -1,9 +1,10 @@
 ---
 layout: post
-title: We have applied to SOCIS!
+title: Yayy! We have applied to SOCIS!
 subtitle: EinsteinPy has applied as an organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork, follow]
+tags: [SOCIS, Announcement]
 comments: true
 ---
 
@@ -29,7 +30,7 @@ ESA Summer of Code in Space (SOCIS) is a program run by the European Space Agenc
 
 We've applied to SOCIS, as we aim to bring in new contributors, expand the community, further fastrack the project and being recognized in the scientific community.
 
-For this, a comprehensive list of five ideas have been carefully formulated by the core members of EinsteinPy project, which can be found [here](https://github.com/einsteinpy/einsteinpy/wiki/SOCIS-Ideas).
+For this, a comprehensive list of five ideas have been carefully formulated by the board members of The EinsteinPy Project, which can be found [here](https://github.com/einsteinpy/einsteinpy/wiki/SOCIS-Ideas).
 
 | ![](../img/blog2/frame_dragging.png) | 
 |:--:| 
