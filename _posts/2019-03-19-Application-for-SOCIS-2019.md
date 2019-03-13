@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Application for SOCIS 2019
+title: We have applied to SOCIS!
 subtitle: EinsteinPy has applied as an organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork, follow]
@@ -23,7 +23,7 @@ The ultimate goal of the library is to provide numerical solutions for Einsteinâ
 |:--:| 
 | *Advance of perihelion of an object around a massive body plotted using EinsteinPy using only 5 lines of code excluding imports* |
 
-## Application to SOCIS 2019
+## Application for SOCIS 2019
 
 ESA Summer of Code in Space (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.
 
