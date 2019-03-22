@@ -23,7 +23,7 @@ I can't express the happiness while writing this, but the pace at which this pro
 
 ## 50 downloads on conda-forge
 
-We released EinsteinPy 0.1.0 according to the schedule on 8th March 2019 on PyPi](https://pypi.org/project/einsteinpy/). Although, the release on [Anaconda](https://anaconda.org/conda-forge/einsteinpy) got a bit late due to packaging efforts required in Anaconda. Still, in a very short span of 12 days since the Anaconda release, the package has been already downloaded 50 times around the world. One can just imagine the number of downloads through `pip`.
+We released EinsteinPy 0.1.0 according to the schedule on 8th March 2019 on [PyPi](https://pypi.org/project/einsteinpy/). Although, the release on [Anaconda](https://anaconda.org/conda-forge/einsteinpy) got a bit late due to packaging efforts required in Anaconda. Still, in a very short span of 13 days since the Anaconda release, the package has been already downloaded 50 times around the world. One can just imagine the number of downloads through `pip`.
 
 
 | ![](../img/blog3/conda.png) |
@@ -43,4 +43,4 @@ It has already been listed in debian's package lists of [Python 3](https://blend
 
 EinsteinPy will be shipped with [Debian Astro Pure Blend](https://blends.debian.org/astro/) and will be available in Ubuntu 19.10 and Debian 11 for download.
 
-Thanks for reading! 
+Thanks for reading!
