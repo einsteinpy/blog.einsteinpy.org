@@ -30,7 +30,6 @@ For installing the development version, you can do two things:
     $ cd einsteinpy/
 
     $ python setup.py install
-
 ```
 
 2) Install using pip:

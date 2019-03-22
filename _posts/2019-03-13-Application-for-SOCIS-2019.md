@@ -3,7 +3,7 @@ layout: post
 title: Yayy! We have applied to SOCIS!
 subtitle: EinsteinPy has applied as an organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
-gh-badge: [star, fork, follow]
+gh-badge: [star, fork]
 tags: [SOCIS, Announcement]
 comments: true
 ---
@@ -20,8 +20,8 @@ The library tries to implement most of the interesting phenomenons in gravitatio
 
 The ultimate goal of the library is to provide numerical solutions for Einstein’s field equations and its application in relativistic hydrodynamics, magnetohydrodynamics, compact objects and many other fields of astrophysics. We envision it as a “de facto” choice for both amateurs and professionals in the field of gravitational physics.
 
-| ![](../img/blog2/advance.png) | 
-|:--:| 
+| ![](../img/blog2/advance.png) |
+|:--:|
 | *Advance of perihelion of an object around a massive body plotted using EinsteinPy using only 5 lines of code excluding imports* |
 
 ## Application for SOCIS 2019
@@ -32,6 +32,6 @@ We've applied to SOCIS, as we aim to bring in new contributors, expand the commu
 
 For this, a comprehensive list of five ideas have been carefully formulated by the board members of The EinsteinPy Project, which can be found [here](https://github.com/einsteinpy/einsteinpy/wiki/SOCIS-Ideas).
 
-| ![](../img/blog2/frame_dragging.png) | 
-|:--:| 
+| ![](../img/blog2/frame_dragging.png) |
+|:--:|
 | *Frame dragging effect in Kerr space-time on a freely falling object calculated using EinsteinPy* |
