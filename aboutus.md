@@ -17,4 +17,4 @@ All of them are undergraduates from IIT Mandi with a motive of making GR easy to
 
 ## Reach out to us!
 
-You can mail us on [einsteinpy-dev@groups.io](mailto:einsteinpy-dev@groups.io) or [chat with us on Riot](https://riot.im/experimental/#/room/#einsteinpy:matrix.org) or [on Gitter](https://gitter.im/EinsteinPy-Project/EinsteinPy).
+You can mail us on [einsteinpy-dev@groups.io](mailto:einsteinpy-dev@groups.io) or [chat with us on Riot](https://riot.im/app/#/room/#einsteinpy:matrix.org) or [on Gitter](https://gitter.im/EinsteinPy-Project/EinsteinPy).
