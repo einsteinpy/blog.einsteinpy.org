@@ -18,7 +18,7 @@ We duly thank ESA for giving our budding organization an international exposure,
 
 ## Our Selection in SOCIS
 
-With great pleasure, we would like to convey that all five projects floated by us in SOCIS have been selected. It is really a matter of pride for a months-old organization. As a consequence, we have been able to attract a huge influx of new contributors, and managed to get into the limelight in the eyes of the GR community. As we speak, the EinsteinPy Project has 20 contributors, and 44 forks along with 72 stargazers. We faced various hurdles, discussing about the API design, sometimes messing up the structure of the module, and moving forward in the wrong direction, but at the end we were always able to rectify ourselves, and were able to see a clear picture, all because of the enthusiasm and love from the open source community. It is great to witness a dinner-table idea to matured enough to garner worldwide interest.
+With great pleasure, we would like to convey that all five projects floated by us in SOCIS have been selected. It is really a matter of pride for a months-old organization. As a consequence, we have been able to attract a huge influx of new contributors, and managed to get into the limelight in the eyes of the GR community. As we speak, the EinsteinPy Project has 20 contributors, and 44 forks along with 72 stargazers. We faced various hurdles, discussing about the API design, sometimes messing up the structure of the module, and moving forward in the wrong direction, but at the end we were always able to rectify ourselves, and were able to see a clear picture, all because of the enthusiasm and love from the open source community. It is great to witness a dinner-table idea to have matured enough to garner worldwide interest.
 
 | ![](../img/blog4/kerrblackhole.png) |
 |:--:|
@@ -41,4 +41,4 @@ We highly encourage potential students to explore the codebase, related issues a
 We express our gratitude the the open source community, for helping us remain passionate towards our initiative, and we look forward to apply for GSoC next year.
 
 
-Gracias & Adiós. Hope to see open-source enthuiasts(you) in large numbers.
+Gracias & Adiós. Hope to see open-source enthusiasts(you) in large numbers.
