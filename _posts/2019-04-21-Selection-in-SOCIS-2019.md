@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are now a mentoring org in SOCIS!
+title: We are now a mentoring organization in SOCIS!
 subtitle: EinsteinPy has been selected as a mentoring organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
@@ -8,7 +8,7 @@ tags: [SOCIS, Announcement]
 comments: true
 ---
 
-## Thanks & Regards to the European Space Agency
+## Thanks to the European Space Agency
 
 ESA Summer of Code in Space (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization on a 3 month programming project during their summer break.
 
@@ -24,7 +24,7 @@ With great pleasure, we would like to convey that all five projects floated by u
 |:--:|
 | *Plot of the event-horizon and ergosphere of a maximally-rotating Kerr Black Hole made using functions in EinsteinPy* |
 
-I believe, I should conclude the section by giving the links to projects selected.
+These are the links to the selected projects: 
 
   - [SOCIS Project Webpage](https://socis.esa.int/projects/) : Projects #12 - #16
   - [EinsteinPy Project Wiki Page](https://github.com/einsteinpy/einsteinpy/wiki/SOCIS-Ideas)
