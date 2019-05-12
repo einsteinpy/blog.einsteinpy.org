@@ -1,1 +1,1 @@
-Visit : https://einsteinpy.github.io
+Visit : http://www.einstienpy.org
