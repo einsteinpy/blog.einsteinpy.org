@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Announcing EinsteinPy!
+author: astroshreyas
 subtitle: A python library for implementing Einstein's Ideas
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
