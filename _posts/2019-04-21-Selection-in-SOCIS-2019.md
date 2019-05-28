@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We are now a mentoring organization in SOCIS!
+author: ritwik
 subtitle: EinsteinPy has been selected as a mentoring organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
