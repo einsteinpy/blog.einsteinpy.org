@@ -184,6 +184,21 @@ defaults:
 # Use tags index page and make tags on each post clickable
 link-tags: true
 
+# Authors and Authors
+
+astroshreyas:
+  name: Shreyas Bapat
+  email: shreyas@einsteinpy.org
+  web: http://www.twitter.com/astroshreyas
+  
+ritwik:
+  name: Ritwik Saha
+  email: rs@einsteinpy.org
+
+sofia:
+  name: Sofía Ortín Vela
+  email: ortinvela.sofia@gmail.com
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -226,6 +241,13 @@ prose:
           element: "textarea"
           label: "Subtitle"
           placeholder: "A description of your post."
+          alterable: true
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          help: "Who wrote this?"
+          placeholder: "John Doe"
           alterable: true
       - name: "date"
         field:
