@@ -63,6 +63,8 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
+		  {% assign author = site[page.author] %}
+ 		  <span class="post-meta"> Written by {{ author.name }}</span>
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
