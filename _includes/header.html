@@ -38,8 +38,8 @@
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  <br>
-		  {% assign author = site[page.author] %}
- 		  <span class="post-meta"> Written by {{ author.name }}</span>
+		  {% assign author = site[page.author] %}	     	 
+ 		  <span class="post-meta"> Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></span>
 		  {% endif %}
         </div>
       </div>
@@ -65,7 +65,7 @@
 		  
 		  {% if include.type == "post" %}
 		  {% assign author = site[page.author] %}
- 		  <span class="post-meta"> Written by {{ author.name }}</span><br>
+ 		  <span class="post-meta"> Written by <a href="{{ author.web }}" target="_blank">{{ author.name }} ({{ author.email }})</a></span><br>
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
