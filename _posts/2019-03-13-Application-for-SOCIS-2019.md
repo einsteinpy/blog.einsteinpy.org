@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yayy! We have applied to SOCIS!
+author: ritwik
 subtitle: EinsteinPy has applied as an organization in ESA's SOCIS-2019
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
