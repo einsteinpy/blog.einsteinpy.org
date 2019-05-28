@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Celebrations and a Tribute!
+author: astroshreyas
 subtitle: Celebrating 50 Stars on GitHub and 50 downloads on conda!
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
