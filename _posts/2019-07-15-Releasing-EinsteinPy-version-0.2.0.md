@@ -1,3 +1,16 @@
+---
+layout: post
+title: Wait for the next version is over!!
+author: Bhavya
+subtitle: EinsteinPy releases version 0.2.0 with new features
+gh-repo: einsteinpy/einsteinpy
+gh-badge: [star, fork]
+tags: [News]
+comments: true
+---
+
+
+
 # Making the second leap in our journey - releasing EinsteinPy 0.2.0 !
 
 ### So the wait is over ...
@@ -10,9 +23,7 @@ EinsteinPy is all set to release its version 0.2.0 and this time it's even more 
 
 ### SOCIS - Summer of code in space
 
-The organisation got selected in the prestige SOCIS program sponsored by European Space Agency and Sofía Ortín Vela is selected as summer intern in the project "**Extension of the library as a package for symbolic calculations**" along with two honourable projects also actively participating in the same. Varun Singh is selected in the honourable project "**Visual Relativity using EinsteinPy**" and Chinmay Talegaonkar in the project "**Adaptive Mesh refinement for EinsteinPy**", both will be working this summer as summer interns with EPY. Have a look at their profiles....
-
-
+The organisation got selected in the prestige SOCIS program sponsored by European Space Agency and Sofía Ortín Vela is selected as summer intern in the project "**Extension of the library as a package for symbolic calculations**" along with two honourable projects also actively participating in the same. Varun Singh is selected in the honourable project "**Visual Relativity using EinsteinPy**" and Chinmay Talegaonkar in the project "**Adaptive Mesh refinement for EinsteinPy**", both will be working this summer as summer interns with EPY. 
 
 ### What's new ?
 
@@ -40,9 +51,7 @@ To know more about the above features and their related functionalities do visit
 
 we hope to receive valuable feedback from your side !
 
-
-
-### EPY version release at Python in Astronomy 2019 workshop - 
+ 
 
 
 
