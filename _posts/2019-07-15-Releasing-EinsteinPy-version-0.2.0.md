@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wait for the next version is over!!
-author: Bhavya
+author: bhavya
 subtitle: EinsteinPy releases version 0.2.0 with new features
 gh-repo: einsteinpy/einsteinpy
 gh-badge: [star, fork]
