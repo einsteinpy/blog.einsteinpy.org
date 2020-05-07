@@ -17,7 +17,7 @@ baseurl: ""
 title: EinsteinPy
 
 # Short description of your site
-description: Python modules for solving General Relativity!
+description: Python Library for solving General Relativity!
 
 # --- Navigation bar options --- #
 
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "einsteinpy-dev@groups.io"
+  email: "all@einsteinpy.org"
   github: einsteinpy
   twitter: einsteinpy
   matrix: einsteinpy
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "einsteinpy.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "blog.einsteinpy.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -189,20 +189,24 @@ link-tags: true
 astroshreyas:
   name: Shreyas Bapat
   email: shreyas@einsteinpy.org
-  web: http://www.twitter.com/astroshreyas
-  
+  web: https://shreyasb.com
+
 ritwik:
   name: Ritwik Saha
-  email: rs@einsteinpy.org
+  email: ritwik@einsteinpy.org
 
 bhavya:
   name: Bhavya Bhatt
-  email: bhavya_bhatt@einsteinpy.org
+  email: bhavya@einsteinpy.org
   web: http://www.twitter.com/BhavyaB66404130
 
 sofia:
   name: Sofía Ortín Vela
-  email: ortinvela.sofia@gmail.com
+  email: sofia@einsteinpy.org
+
+jes24:
+  name: Jyotirmaya Shivottam
+  email: jyotirmaya@einsteinpy.org
 
 # Exclude these files from production site
 exclude:
