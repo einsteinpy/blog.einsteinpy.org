@@ -782,3 +782,8 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.riot-icon {
+  content: url("/img/riot.png");
+  margin: 1px;
+}
