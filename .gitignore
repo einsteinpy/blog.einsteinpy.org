@@ -7,3 +7,6 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+#files
+2020-06-01-GSoC-20-Impl.md
