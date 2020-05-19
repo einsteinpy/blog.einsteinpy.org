@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  GSoC 2020 - Blog 0 - Brief History
+title:  GSoC 2020 - Blog 0 - A Brief History...
 author: jes24
 subtitle: Here we go...
 gh-repo: einsteinpy/einsteinpy
@@ -9,7 +9,7 @@ tags: [News, GSoC]
 comments: true
 ---
 
-![EPY Logo](../img/gsoc20_intro/EPY%20Whitespace%20-%20Inverted.png)
+![EPY Logo](../img/gsoc20_intro/EPY%20Whitespace.png)
 
 ```
 >>> print("Hello, World!")
@@ -55,7 +55,7 @@ And so, we have assembled all the parts for getting a basic understanding of "Nu
 
 I plan to document my progress with the project here, with biweekly blogs. While this blog was physics-heavy, the plan for the next blog is to post a distilled summary of the actual code implementation. Nonetheless, I hope, you found this small introduction into the domain of Relativity interesting. If you wish to play around with some numerical relativity (especially during this pandemic, when most are home and bored), you can try out EinsteinPy. For now, I will leave here with a small tidbit:
 
-> If you've watched Chris Nolan's brilliant movie, Interstellar, and ever wanted to simulate and obtain a Black Hole "image" similar to Gargantua, all you would need to solve is the geodesic equation alongside a couple more complicated equations. A brilliant resource to do that is a [Mathematica Notebook](http://www.its.caltech.edu/~kip/Interstellar/RayBundleDerive.nb), hosted on Dr. Kip Thorne's personal Caltech homepage.
+> If you've watched Chris Nolan's brilliant movie, Interstellar, and wanted to simulate and obtain a Black Hole "image" similar to Gargantua, all you would need to solve is the geodesic equation alongside a couple more complicated equations. A brilliant resource to do that is a [Mathematica Notebook](http://www.its.caltech.edu/~kip/Interstellar/RayBundleDerive.nb), hosted on Dr. Kip Thorne's personal Caltech homepage.
 
 ![Gargantua, Accreting (from Interstellar)](../img/gsoc20_intro/Gargantua.png)
 
