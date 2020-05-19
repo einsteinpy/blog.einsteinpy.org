@@ -41,7 +41,9 @@ The equation above is a Tensor Equation, wherein we solve for $g_{\mu\nu}$, the 
 
 Now that we have our spacetime geometry set up, we can think about how the motion of massive objects (read: having non-zero mass, e.g. neutrons) and massless objects, like photons, that make up light, would look like in the spacetime. Here's where, geodesics come in, now in 3+1D. They characterize the paths of such objects, given the metric. The corresponding Geodesic equation can be derived using the metric and the [Equivalence Principle or through Variational Methods](https://en.wikipedia.org/wiki/Geodesics_in_general_relativity) and is given as:
 
-$$\boxed{{\mathrm{d}^{2}x^{\mu} \over \mathrm{d}\lambda^{2}} + \Gamma^{\mu}_{\alpha \beta}{\mathrm{d}x^{\alpha} \over \mathrm{d}\lambda}{\mathrm{d}x^{\beta} \over \mathrm{d}\lambda} = 0}$$
+$$\boxed{
+{\mathrm{d}^{2}x^{\mu} \over \mathrm{d}\lambda^{2}} + \Gamma^{\mu}_{\alpha \beta}{\mathrm{d}x^{\alpha} \over \mathrm{d}\lambda}{\mathrm{d}x^{\beta} \over \mathrm{d}\lambda} = 0
+}$$
 
 Here, $x^\alpha$ is 4-position of the object in motion (Position vector in a 3+1D spacetime), $\Gamma^{\mu}_{\alpha\beta}$ or the Christoffel Symbols are a convenient way of writing metric derivatives (derivatives of $g_{\mu\nu}$) and $\lambda$ is called an Affine Parameter, that is helpful in describing a general geodesic. You might ask, if we are talking about a moving object, why not use time (in particular, "Proper Time", $\Delta\tau$), instead of some arbitrary $\lambda$ parameter. The reason behind this and the importance of this parameter will be apparent soon.
 
