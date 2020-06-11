@@ -28,6 +28,7 @@ navbar-links:
     - Installation Guide: "installation"
     - Success Stories: "success"
   Documentation: "https://docs.einsteinpy.org/"
+  Paper: "https://arxiv.org/abs/2005.11288"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -136,8 +137,8 @@ staticman:
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : 6LcYPqMZAAAAAIcdCR4xOLSFmdB2BXM2uTz1m_GW # Use your own site key, you need to apply for one on Google
-    secret   : igGW5Xau2jxtRjQPQqhmrI7fp/waJ0DV72lpbGWxZcuCqQzkxS+nVTvmkHAoLd+qVEtTrO8QZzYGJv3/Ryfej2qb32GnYQz/c9EF25v9bJB19pkI1czLIp924iJ5eazOPjVBCajGdzEdme9ibzjLTqVKhuvpOZBn2tfVqR8K0R7ONliwZoU058msPTJ73XizaVFiSmqT9HQNN9udY3dSs/dTUdVPC5SNotj3+RTnQYv/Fg8V5IwhsGt463Kpve4kvBQOd7Wmcwynk9ENWODzEv/ePdcKeMoBfxDrjhgT+RCXQQcQ2FRTBv9pzqh/gJlHqlWLIhFYSwDodbBWTOBJlA==
+    siteKey  : 6LeMPqMZAAAAAPLkxf6VMce0qZCjlRhTe70AWut6 # Use your own site key, you need to apply for one on Google
+    secret   : m2AlPBM/y4nNvPlnm2QH450Z/xfmnQmBi3nkQGi20AZQxvnFfxy5qbdbzsH0o80cDNcyXjoGsfdhrYgaLRepcmNYJctUo1Jsk6L1UHzdZVMaY1MCesp8XzkxHspjoBYFCKpm5SjwwEynvC0QGcvT0DHmELowV08pSEkjfO8c96OSfngDoXMfR7haBSAIq9quK/IYGYzOE257ZsH6QJB67OfR8ikoAEnpz2qXcls2nRm2mT4CtMpphF+zvb5yqXl4N8JklH6EsxVA6b18rGnaMlPpfa9V5Q3Lx1QHkVVvh+UibLOMgR6vXKN+cEVImfY7y7lMV3ETqDuonkjsI7YoCA==
     # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
