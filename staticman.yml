@@ -105,4 +105,4 @@ comments:
     # (!) ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://staticman3.herokuapp.com/v3/encrypt/{your-site-secret}
     # For more information, https://staticman.net/docs/encryption
-    secret: "BuPdmIGltlN0jn//ZSG4idqtfU4qMf6UETQPS8wUCzOQR6+qN1O4dGzVC5wHmIKhFZLbqu30o1NK0tveqbAKtxKO0yMYbR8nqEmAzpiLUB4DxAtlvL9SP9RRG9xSwKaW5iRKJ83zK9sZXtqzEbXKls+Xi/iLVypZ8zbzr9OLbWvATMJ9ZrcJ/J5145R/TUsKsWbJqnQWGpCF6qVq6dvjdh9wUh2fdWsVCRTb2PGbgXMT5Bl7Q37U9uEJCYPzzorqbz7jq5wjPkiSVmxMLk8JmDPkcyfLoKCqSzmNDWMbZWkeWI5RKz0ow6tIIbuu+WuMz2wXxkTX6HnE8KlJcA6WaQ=="
+    secret: "KsscMRxpnWisJFAunH/HSW6OBcSPzsjz6XTipJCBgc69K9Ex5+O9Zj3OFTt8/sAVC0FVwElPkpKgNTZH8bbeegYXdpksqqUUkKyU6Fv9KXf2Dnnsa2Jd/++VI6DaFsk7WSNrZqZGtbIXgBgBGuWoF6ZNolXYPmMeWBXx4cKOxsn9XyH3LCtSiUwsO6bJvz15OaB7PdnE57dOhPQc137yEj1lALufltI5Yl2JV1JWI/xrLSyxOw5+sdOgt6VEdChB8SgrM2LUJg9ATzzIZB0CSDYzCKdsvo05oFGt9PeywcqcZ2nBMSvdAyU/sBZWUO8FZh6CNEGcO3G0TedbuAXDMw=="
