@@ -51,7 +51,7 @@ comments:
   # Whether entries need to be approved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: true
+  moderation: false
 
   # Akismet spam detection.
   # akismet:
@@ -101,8 +101,8 @@ comments:
   # Use your OWN siteKey and secret.
   reCaptcha:
     enabled: true
-    siteKey: "6Lc7gaoUAAAAAA1n1d-U6MatFxkhvTTYYNzZshLZ"
+    siteKey: "6LeMPqMZAAAAAPLkxf6VMce0qZCjlRhTe70AWut6"
     # (!) ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://staticman3.herokuapp.com/v3/encrypt/{your-site-secret}
     # For more information, https://staticman.net/docs/encryption
-    secret: "BuPdmIGltlN0jn//ZSG4idqtfU4qMf6UETQPS8wUCzOQR6+qN1O4dGzVC5wHmIKhFZLbqu30o1NK0tveqbAKtxKO0yMYbR8nqEmAzpiLUB4DxAtlvL9SP9RRG9xSwKaW5iRKJ83zK9sZXtqzEbXKls+Xi/iLVypZ8zbzr9OLbWvATMJ9ZrcJ/J5145R/TUsKsWbJqnQWGpCF6qVq6dvjdh9wUh2fdWsVCRTb2PGbgXMT5Bl7Q37U9uEJCYPzzorqbz7jq5wjPkiSVmxMLk8JmDPkcyfLoKCqSzmNDWMbZWkeWI5RKz0ow6tIIbuu+WuMz2wXxkTX6HnE8KlJcA6WaQ=="
+    secret: "m2AlPBM/y4nNvPlnm2QH450Z/xfmnQmBi3nkQGi20AZQxvnFfxy5qbdbzsH0o80cDNcyXjoGsfdhrYgaLRepcmNYJctUo1Jsk6L1UHzdZVMaY1MCesp8XzkxHspjoBYFCKpm5SjwwEynvC0QGcvT0DHmELowV08pSEkjfO8c96OSfngDoXMfR7haBSAIq9quK/IYGYzOE257ZsH6QJB67OfR8ikoAEnpz2qXcls2nRm2mT4CtMpphF+zvb5yqXl4N8JklH6EsxVA6b18rGnaMlPpfa9V5Q3Lx1QHkVVvh+UibLOMgR6vXKN+cEVImfY7y7lMV3ETqDuonkjsI7YoCA=="
