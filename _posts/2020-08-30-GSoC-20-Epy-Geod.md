@@ -56,9 +56,7 @@ After discussions with my mentors, I looked into other languages, that could hel
 </figure>
 </p>
 
-Now came the problem of integrating the Julia code with EinsteinPy, for which I looked towards _PyJulia_. However, it has some issues with [installation on *nix systems](https://pyjulia.readthedocs.io/en/latest/troubleshooting.html). So, I opted to write my own wrapper, using Python's `subprocess`. and, with the help of my GSoC mentor, Shreyas, packaged the Julia module and the Python wrapper into what is now [`einsteinpy_geodesics`](https://github.com/einsteinpy/einsteinpy-geodesics), an add-on module to EinsteinPy. 
-
-{% github einsteinpy/einsteinpy-geodesics %}
+Now came the problem of integrating the Julia code with EinsteinPy, for which I looked towards _PyJulia_. However, it has some issues with [installation on *nix systems](https://pyjulia.readthedocs.io/en/latest/troubleshooting.html). So, I opted to write my own wrapper, using Python's `subprocess`. and, with the help of my GSoC mentor, Shreyas, packaged the Julia module and the Python wrapper into what is now [`einsteinpy_geodesics`](https://github.com/einsteinpy/einsteinpy-geodesics), an add-on module to EinsteinPy.
 
 On top of this, I also overhauled the geodesic plotting module and added support for 3D animations, parametric plots and choice of spatial coordinates in 2D plots, in both `Static` and `Interactive` modes (that use `matplotlib` and `plotly` respectively). I present some of the plots, produced through the final API, below. The plots shown here, have a mix of both `Static` and `Interactive` back-ends, as well as time-like and null-like geodesics.
 
